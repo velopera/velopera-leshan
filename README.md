@@ -122,3 +122,7 @@ java -jar leshan-demo-bsserver/target/leshan-demo-bsserver-*-SNAPSHOT-jar-with-d
 Let's start to code !
 ---------------------
 Now you played a bit with our demo, you should start to code your own server or client using our [Getting-started](https://github.com/eclipse/leshan/wiki/Getting-started) guide.
+
+---
+
+*This work has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 101070599 (SecOPERA)*
